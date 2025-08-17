@@ -3,8 +3,8 @@
 This project is a collection of string manipulation functions implemented in C++.  
 It includes two main files:
 
-- **`Main.txt_Project_1 (String_Library_Project)`**
-- **`clsString.h_Project_1 (String_Library_Project)`**
+- **`Main.cpp`**
+- **`clsString.h`**
 
 ## Features
 
