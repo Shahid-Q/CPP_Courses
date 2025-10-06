@@ -113,4 +113,5 @@ public:
 	{
 		return clsDate::IsValidDate(Date);
 	}
+
 };
